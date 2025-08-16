@@ -1,6 +1,6 @@
 # ToDo App
 
-![ToDo App Screenshot](<img width="1919" height="1077" alt="Image" src="https://github.com/user-attachments/assets/ab096549-4726-4abc-ba7e-c07862efe739" />)
+![ToDo App Screenshot](https://github.com/user-attachments/assets/ab096549-4726-4abc-ba7e-c07862efe739)
 
 A simple and intuitive **ToDo App** to help you organize your tasks and increase productivity. This app allows you to create, update, and delete tasks with ease.
 
